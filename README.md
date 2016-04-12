@@ -186,6 +186,20 @@
 
 
 
+##C++
+---
+####2016/04/12
+
+- Addison Wesley - Exceptional C++
+- C++Templates
+- C++高级语言C++程序设计
+- Exceptional C++中文版(draft)
+- Thinking+in+C++
+- 大话设计模式C++
+- 易学C++
+
+
+
 ##数据结构和算法
 ---
 
